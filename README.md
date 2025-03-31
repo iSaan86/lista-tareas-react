@@ -44,12 +44,6 @@ La aplicación estará disponible en `http://localhost:3000`.
 
 ![Lista de Tareas](public/captura.png)
 
-## Ver ejemplo en vivo
-
-[GitHub Pages](https://isaan86.github.io/lista-de-tareas/)
-
-[Netlify](https://lista-de-tareas-react.netlify.app/)
-
 ## Contacto
 
 Para cualquier consulta, oportunidad laboral o colaboración, no dudes en contactarme:
